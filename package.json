@@ -1,0 +1,26 @@
+{
+  "name": "c_hangman",
+  "version": "1.0.0",
+  "description": "hangman constructor game",
+  "main": "game.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaried23/c_hangman.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Alexis DeLucia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaried23/c_hangman/issues"
+  },
+  "homepage": "https://github.com/Amaried23/c_hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "^1.0.0"
+  }
+}
