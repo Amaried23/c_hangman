@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Amaried23/c_hangman#readme",
   "dependencies": {
     "inquirer": "^5.0.1",
-    "prompt": "^1.0.0"
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
   }
 }
