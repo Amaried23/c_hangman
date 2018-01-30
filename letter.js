@@ -1,3 +1,5 @@
+//constructor
+
 function Letter (aletter) {
     
     this.letter = aletter;
