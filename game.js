@@ -51,7 +51,7 @@ var letterGuess = require('./letter.js');
       if (newLetter.letter.indexOf(lettersOfWords[i]) !== -1) {
       	wordView += lettersOfWords[i];
       	// display the word view with the correct letter showing in between the underscores
-      	console.log(wordView += "\n" +underScore.join(" ") );
+      	console.log(wordView  );
       }
       else {
  
