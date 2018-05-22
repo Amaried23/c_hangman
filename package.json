@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Amaried23/c_hangman#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "inquirer": "^5.0.1",
     "prompt": "^1.0.0",
     "request": "^2.83.0"
